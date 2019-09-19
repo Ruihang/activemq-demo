@@ -1,6 +1,5 @@
-package subscriber;
+package publisher;
 
-import entity.TestMqBean;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
